@@ -1,0 +1,24 @@
+table{
+    border: rgb(249, 10, 10);
+    border-style: groove;
+}
+nav ul{
+    display: flex;
+}
+
+nav li{
+    list-style: none;
+    align-self: center;
+}
+
+nav li a{
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 5px;
+    color: #555;
+    align-self: center;
+}
+
+nav li a:hover{
+    background-color: rgb(8, 148, 247);
+}

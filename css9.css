@@ -1,0 +1,33 @@
+h1{
+    color: red;
+    background-color: lightblue;
+}
+#nil{
+    color: blue;
+    margin: 50px 40px 40px 50px;
+    border: 5px double black;
+}
+.lal{
+    color: hotpink;
+}
+p{
+    background-color: aqua;
+    padding: 10px;
+    border: 5px solid black;
+    align-content: center;
+}
+#c-center{
+    align-content: center;
+}
+#main{
+    width: 300px;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    display: flex;
+}
+#main div {
+    width: 70px;
+    height: 70px;
+  }

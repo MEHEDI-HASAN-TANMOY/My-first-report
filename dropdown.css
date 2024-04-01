@@ -1,0 +1,35 @@
+header {
+    background-color: #ece6e6;
+    color: #f0b4b4;
+    padding: 10px;
+    text-align: center;
+}
+nav >ul{
+    display: flex;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 5px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+nav li :hover{
+    background-color: rgb(134, 162, 247);
+}
+
+.drop :hover{
+    background-color: rgb(239, 177, 229);
+}
+nav .drop{
+    display: none;
+    padding-left: 5px;
+}
+
+nav li:hover .drop{
+    display: block;
+}

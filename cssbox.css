@@ -1,0 +1,24 @@
+h1{
+    font-size: 30px;
+    text-decoration: overline;
+    display: none;
+}
+h1{
+    display: block;
+    visibility: hidden
+}
+
+h1:hover{
+    visibility: visible;
+}
+.border{
+    border: 5px solid chocolate;
+    border-bottom: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+ 
+    background-image: url('../HTML/img/image.jpg');
+    /* onno kono file a image thakle */
+}
+
