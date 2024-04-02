@@ -1,0 +1,17 @@
+.mehedi{
+    color: black;
+}
+p{
+    font-size: xx-large;
+}
+h1{
+    font-size: xx-large;
+    text-align: center;
+    color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+nav{
+     display: flex;
+     
+}
