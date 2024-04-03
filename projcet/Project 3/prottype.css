@@ -22,9 +22,9 @@ body{
 }
 .header{
     background-color: rgb(167, 178, 142);
-    background-image: url(header_bg.png);
+    background-image: url(header_bg.png), url(developer.png);
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
 }
 .hettt{
     color: #FD6E0A;
